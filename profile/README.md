@@ -1,6 +1,6 @@
 # Bloxstrap — Offline Setup & Configuration Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-v2.9.0-blueviolet)](#)
 
 A comprehensive guide for the offline installation and configuration of Bloxstrap, a custom launcher for Roblox that enhances the user experience with advanced features and performance improvements. This manual is intended for environments where direct internet access is limited or for users who prefer a managed, offline deployment.
 
@@ -30,19 +30,7 @@ This setup assistant configures Bloxstrap to unlock its full potential, providin
 
 ### 🖼️ Preview
 
-Here are some of the features you can configure using the setup assistant.
-
-![Bloxstrap Menu](https://i.imgur.com/kS5xUaR.png)
-*The main Bloxstrap menu, providing access to all core settings and features.*
-
-![Bloxstrap FastFlag Editor](https://i.imgur.com/PClqgT5.png)
-*The FastFlag editor allows for granular control over client variables for performance tuning.*
-
-![Bloxstrap Appearance Settings](https://i.imgur.com/QhXj0vB.png)
-*Customize the look and feel of the Roblox client with various built-in themes and custom options.*
-
-![Bloxstrap Integrations](https.i.imgur.com/2s78dTF.png)
-*Enable and manage integrations like Discord Rich Presence for a more connected experience.*
+![Bloxstrap Menu](https://bloxstraps.net/wp-content/uploads/2024/10/Bloxstrap-2.webp)
 
 ---
 
